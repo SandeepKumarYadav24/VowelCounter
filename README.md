@@ -43,11 +43,3 @@ JavaScript file containing the logic for:
 2. Ensure all files (`index.html`, `style.css`, `scipt.js`) are in the same directory.
 3. Open `index.html` in any modern web browser to run the application.
 
-## Future Enhancements
-- Add support for real-time vowel counting as the user types.
-- Enhance functionality to detect vowels in multiple languages.
-- Provide additional statistics, such as consonant count or word count.
-
-## Author
-This project is developed as a simple demonstration of front-end web technologies.
-
